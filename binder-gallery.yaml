@@ -1,8 +1,7 @@
 ---
 name: Example Gallery
 description: >-
-  An example gallery of notebooks used for debugging the Pangeo Gallery
-  infrastructure.
+  How to use Dask Gateway with Pangeo.
 gallery_repository: pangeo-gallery/pangeo-gallery
 binder_url: "https://binder.pangeo.io"
 binder_repo: TomAugspurger/pangeo-dask-gateway
