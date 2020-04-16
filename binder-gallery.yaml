@@ -4,6 +4,6 @@ description: >-
   How to use Dask Gateway with Pangeo.
 gallery_repository: pangeo-gallery/pangeo-gallery
 binder_url: "https://binder.pangeo.io"
-binder_repo: TomAugspurger/pangeo-dask-gateway
+binder_repo: pangeo-gallery/default-binder
 binder_ref: master
 binderbot_target_branch: binderbot-built
